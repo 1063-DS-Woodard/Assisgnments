@@ -80,7 +80,7 @@ int main()
 		while (listSize > 1) {// List is greater than 1
 
 			length = first.length() * num;
-			second = List.EvenorOdd(length);
+			second = List.CheckforEvenorOdd(length);
 
 			// prints out every 11 animals that are  removed
 			if (listSize % 11 == 0)
