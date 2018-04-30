@@ -198,7 +198,7 @@ Node* DBList::_Search(string key) {
 // Returns : DeleteNode(temp)
 
 
-string DBList::EvenorOdd(int var) {
+string DBList::CheckforEvenorOdd(int var) {
 	Node *temp = Current;
 
 	if (var % 2 == 0)
