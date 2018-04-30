@@ -1,0 +1,38 @@
+//Program Name: Program 3
+//Author: Danny Woodard 
+//Description: 
+//This program reads in animal names into a doubly-linked
+//list, then prompts the user to enter a number that will
+//serve as random. The program will
+//eliminate a given number of animals from the list. If
+//number is even, the pointer moves to the right and if odd
+//the pointer moves to the left. Animals are then removed based on the random number
+//until one animal is left. This animal is then declared the survivor/Winner.
+//Semester: Spring 2018
+//Course: 1063 Data Structures
+//Date: 4/30/2018
+
+The chosen multiplier: 11
+First: - bear
+- lobster
+- mosquito
+- polar-bear
+- red-panda
+- coyote
+- dolphin
+- squid
+- meerkat
+- dogfish
+- capybara
+- walrus
+- bee
+- ape
+- goshawk
+- jackal
+- donkey
+- pig
+- oyster
+- lark
+- whale
+ WINNER: tiger!!
+
